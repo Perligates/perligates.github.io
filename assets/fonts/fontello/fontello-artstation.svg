@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello-artstation" horiz-adv-x="1000" >
+<font-face font-family="fontello-artstation" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="artstation" unicode="&#xe800;" d="M4 113l84-145a100 100 0 0 1 90-56h557l-116 201z m976 53l-324 568a100 100 0 0 1-89 54h-173l503-875 79 138c4 6 41 58 4 115z m-443 89l-225 391-226-391z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
