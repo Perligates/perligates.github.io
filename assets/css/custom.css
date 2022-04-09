@@ -46,9 +46,15 @@
 h1, h2, h3, h4, h5, h6, body, 
 .navbar-nav > li > a, 
 .bordered .info h3 a, 
-.bordered .info h4 a,
-.modal-header .close {
+.bordered .info h4 a {
     color: #34495e;
+}
+
+.modal-header .close {
+    color: #fff;
+}
+.modal-body {
+    background-color: black;
 }
 
 .icon-artstation:before {
@@ -88,5 +94,5 @@ h1, h2, h3, h4, h5, h6, body,
     background: #3079FF;
 }
 .social a .icon-s-github:after {
-    background: #2c3e50;
+    background: #506a85;
 }

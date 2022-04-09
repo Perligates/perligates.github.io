@@ -4,4 +4,8 @@
 /*	CUSTOM JS/JQUERY SCRIPTS
 /*===================================================================================*/
 
-// Insert your own scripts in here!
+function pauseVideo() {
+    document.getElementById('demo-reel').pause();
+}
+
+
