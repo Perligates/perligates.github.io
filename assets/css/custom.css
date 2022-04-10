@@ -57,6 +57,35 @@ h1, h2, h3, h4, h5, h6, body,
     background-color: black;
 }
 
+.thumb {
+    height: 350px;
+} 
+
+.thumb .icn-link img {
+    height: 208px;
+    object-fit: contain;
+    object-position: 50% 0%;
+    background-color: #F5F7FA;
+}
+.thumb .icn-link {
+    border-top: 1px solid rgb(230, 233, 237);
+    border-left: 1px solid rgb(230, 233, 237); 
+    border-right: 1px solid rgb(230, 233, 237);
+}
+
+.hover-change img:first-child {
+    display: block;
+}
+.hover-change img:last-child {
+    display: none;
+}
+.hover-change:hover img:first-child {
+    display: none;
+}
+.hover-change:hover img:last-child {
+    display: block;
+}
+
 .icon-artstation:before {
     font-family: fontello-artstation !important;
 }
@@ -95,4 +124,10 @@ h1, h2, h3, h4, h5, h6, body,
 }
 .social a .icon-s-github:after {
     background: #506a85;
+}
+
+video {
+    display: block; 
+    margin: auto; 
+    height: 100%
 }
