@@ -131,3 +131,28 @@ video {
     margin: auto; 
     height: 100%
 }
+.grid {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    row-gap: 1%;
+    column-gap: 1%;
+    
+  }
+  .photos {
+    display: grid;
+    grid-template-columns: auto auto;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  #preproduction
+  {
+    margin: auto auto;
+    padding: 3%;
+  }
+  .smaller
+  {
+    font-size: 1.8em;
+  }
+
+ 
